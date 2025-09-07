@@ -13,7 +13,7 @@
 
 - 💬 Pergunte-me sobre: **Java e SQL**
 
-- 📄 Sobre mim: [www.linkedin.com/in/fabio-oliveira-33601a20a](www.linkedin.com/in/fabio-oliveira-33601a20a)
+- 📄 Sobre mim: [https://www.linkedin.com/in/fabio-oliveira-33601a20a](https://www.linkedin.com/in/fabio-oliveira-33601a20a)
 
 - ⚡ Fato engraçado sobre mim: **Não sei contar piada.**
 
@@ -30,5 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabio2307&show_icons=true&theme=dark&locale=en" alt="fabio2307" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabio2307&theme=dark" alt="fabio2307" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabio2307&theme=dark" alt="fabio2307" /></p>
+
 
