@@ -1,4 +1,4 @@
-![banner](https://github.com/fabio2307/fabio2307/blob/main/banner%20para%20o%20git1.png?raw=true)
+![banner](https://github.com/fabio2307/fabio2307/blob/main/gitHub.png)
 
 <h1 align="center">Olá👋, Eu sou Fábio S.de Oliveira</h1>
 <h3 align="center">Aqui você encontra projetos usando JavaSE, JavaEE e um pouco de otros seguimentos.</h3>
