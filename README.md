@@ -1,6 +1,6 @@
 ![banner](https://github.com/fabio2307/fabio2307/blob/main/gitHub.png)
 
-<h1 align="center">Olá👋, Eu sou Fábio S.de Oliveira</h1>
+<h1 align="center">Olá👋, Eu sou Fábio S. de Oliveira</h1>
 <h3 align="center">Aqui você encontra projetos usando JavaSE, JavaEE e um pouco de otros seguimentos.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabio2307&label=Profile%20views&color=0e75b6&style=flat" alt="fabio2307" /> </p>
