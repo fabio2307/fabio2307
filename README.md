@@ -9,7 +9,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis: [https://github.com/fabio2307](https://github.com/fabio2307)
 
-- 📄 Sobre mim: [https://www.linkedin.com/in/fabio-oliveira-33601a20a](https://www.linkedin.com/in/fabio-oliveira-33601a20a)
+- 📄 Sobre mim: [https://www.linkedin.com/in/fabio-oliveira-33601a20a](https://www.linkedin.com/in/fabio-oliveira23)
 
 - ⚡ Fato engraçado sobre mim: **Não sei contar piadas**
 
